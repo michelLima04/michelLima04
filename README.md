@@ -1,15 +1,10 @@
  ## Hello World! 👋
 
-- 🔭 Sou estagiário na empresa Evo Sistemas Inteligentes em Pinhais - PR, como Tester de Software desde Janeiro de 2025.
+- 🔭 Sou estagiário de T.I./Sistma na empresa Hospital Universitário Evangélico Mackenzie, atuando com B.I. e SQL.
 - 💻 Tenho o insteresse de ingressar na área profissional de Tecnologia como desenvolvedor.
-- 📚 Atualmento estou cursando Tecnologia em Análise e Desenvolvimento de Sistemas na PUCPR, 1º Período.
-- 🎓 Finalizei os estudos no Curso de técnico em Desenvolvimento de Sistemas no SENAI - Campus da Indútria, Curitiba-PR.
-- 👓 Conhecimentos básicos em:
-  <div style ="display: inline_block">
-    <img align="center" alt="html5" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-    <img align="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img align="center" alt="html5" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /> 
-  </div>
+- 📚 Atualmento estou cursando Tecnologia em Análise e Desenvolvimento de Sistemas na PUCPR, 2º Período.
+- 🎓 Sou técnico em Desenvolvimento de Sistemas no SENAI - Campus da Indútria, Curitiba-PR.
+- 👓 Possuo conhecimentos técnicos em: C, C#, Java, Python, SQL.
 
 [![michelLima04 GitHub stats](https://github-readme-stats.vercel.app/api?username=michelLima04&show_icons=true&theme=dark)](https://github.com/michelLima04/github-readme-stats)
 <br>
